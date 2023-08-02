@@ -1,0 +1,4 @@
+create -  file
+add    -  git add text1.txt
+commit -  git commit -m "text1.txt file added"
+push   -  git push origin main
