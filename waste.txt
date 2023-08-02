@@ -1,0 +1,33 @@
+djfjd;fsld;jfdjfjsdklfsldfkdsf;ksjdfjsdjflkjfjl
+ajfsjdfsdjdf'sajsf
+asdfd
+fjs
+df'af
+acreate -  file
+add    -  git add text1.txt
+commit -  git commit -m "text1.txt file added"
+push   -  git push origin maincreate -  file
+add    -  git add text1.txt
+commit -  git commit -m "text1.txt file added"
+push   -  git push origin maincreate -  file
+add    -  git add text1.txt
+commit -  git commit -m "text1.txt file added"
+push   -  git push origin maincreate -  file
+add    -  git add text1.txt
+commit -  git commit -m "text1.txt file added"
+push   -  git push origin maincreate -  file
+add    -  git add text1.txt
+commit -  git commit -m "text1.txt file added"
+push   -  git push origin maincreate -  file
+add    -  git add text1.txt
+commit -  git commit -m "text1.txt file added"
+push   -  git push origin maincreate -  file
+add    -  git add text1.txt
+commit -  git commit -m "text1.txt file added"
+push   -  git push origin maincreate -  file
+add    -  git add text1.txt
+commit -  git commit -m "text1.txt file added"
+push   -  git push origin maincreate -  file
+add    -  git add text1.txt
+commit -  git commit -m "text1.txt file added"
+push   -  git push origin main
